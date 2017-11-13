@@ -1,0 +1,116 @@
+body{
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+
+li .arriba{
+	list-style: none;
+}
+.container-fluid{
+	background: #F6CE92;
+	margin-bottom: 130px;
+}
+.container{
+	align-content: center;
+
+}
+.arriba:hover{
+	background: brown;
+	list-style: none;
+}
+.reloj{
+	display: inline-block;
+	
+	color: #6E460A;
+}
+.tele{
+	display: inline-block;
+}
+.lol{
+  	align-content: center;
+}
+.nav-item{
+	color: brown;
+}
+.redes{
+	display: inline-block;
+}
+.nav-link{
+	color: brown;
+}
+.nav-link:hover{
+	background: brown;
+	color: white;
+	border-radius: 10px;
+	float: right;
+	text-align: center;
+}
+.encuentro{
+	color: brown;
+	margin-left: 00px;
+}
+.navbar-toggler{
+	background: brown;
+	color: white;
+}
+.navbar-togler:hover{
+	background: brown;
+	color: white;
+}
+.nav-item{
+	background: #F9E1BF;
+	padding-left: 1em;
+	padding-right: 1em;
+}
+
+.carousel-inner{
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+.collapse.navbar-collapse.navbar-toggler-right{
+	width: 80%;
+	height: auto;
+	float: right;
+	padding-left: 3em;
+}
+.tele,.reloj,.redes{
+	margin-right: 50px;
+	padding-right: 50px;
+	margin-left: 10px;
+	padding-left: 10px;
+}
+
+#footer{
+	background: #161A1A;
+	color: white;
+	font-size:0.8rem; 
+	padding:2.5rem 0;
+	
+}
+#color{
+	background:#090F0F;
+	padding:0.5rem 0;
+	color: white;
+}
+
+
+#acerca-de{
+	background:url("../img/mapa1.jpg") center center no-repeat;
+	background-size: cover;
+	padding:0;
+	
+}
+.texto-acerca-de{
+	background: rgba(0, 0, 0, .8);
+	color:white;
+	padding: 1.875rem;
+
+}
+.navbar.navbar-expand-lg.fixed-top.lol{
+	margin-top: 40px;
+	background: #fff;
+}
+.carousel.slide{
+	margin-top: 11%;
+}
